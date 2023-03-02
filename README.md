@@ -1,9 +1,7 @@
-# INLP Assignment 1
 ## Use this link to download model_2.pth: <a href="https://iiitaphyd-my.sharepoint.com/:u:/g/personal/advaith_malladi_research_iiit_ac_in/EdfLdWlpZVZCld9VjnEzx6QBt11gOde3Ver0_9Meh8PYKg?e=1iRGYK" target="_blank">LINK</a>  <br/><br/>
 
 
 ### Name: Advaith Malladi
-### Roll Number: 2021114005
 
 ### Directory Structure
 ```
